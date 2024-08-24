@@ -13,12 +13,13 @@ def transcribe_image_to_text(image_path):
         text = pytesseract.image_to_string(img)
     return text
 
-def save_text_to_unique_file(text, output_dir, index):
-    # Ensure the output directory exists
+def save_text_to_unique_file(text:str, output_dir: str, filename: str):
+     # Ensure the output directory exists
     os.makedirs(output_dir, exist_ok=True)
-    # Generate a unique file name using the index
-    unique_filename = f'{index:04d}.txt'
-    output_path = os.path.join(output_dir, unique_filename)
+    # Remove the file extension from the filename
+    filename_without_extension = os.path.splitext(filename)[0]
+    # Construct the output file path using the filename without extension
+    output_path = os.path.join(output_dir, f"{filename_without_extension}.txt")
     # Write the text to the file
     with open(output_path, 'w') as text_file:
         text_file.write(text)
@@ -34,12 +35,12 @@ def process_images_in_folder(folder_path, output_dir="output_texts"):
     image_files = [f for f in os.listdir(folder_path) if f.lower().endswith(image_extensions)]
     image_files.sort(key=natural_sort_key)  # Sort the image files to maintain natural order
     
-    for index, filename in enumerate(image_files, start=1):
+    for _ , filename in enumerate(image_files, start=1):
         image_path = os.path.join(folder_path, filename)
         text = transcribe_image_to_text(image_path)
-        output_path = save_text_to_unique_file(text, output_dir, index)
+        output_path = save_text_to_unique_file(text, output_dir, filename)
         print(f"Transcribed text saved to: {output_path}")
 
 # Example usage with a folder path
 folder_path = '/home/regis/Documents/Git/PDF2IMG/The_Name_of_the_Wind/batch_101_to_200'
-process_images_in_folder(folder_path)
+process_images_in_folder(folder_path, "batch_101_to_200")
