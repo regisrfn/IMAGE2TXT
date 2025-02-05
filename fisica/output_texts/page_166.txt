@@ -1,0 +1,71 @@
+166
+
+CAPITULO 37
+
+Algumas Consequéncias das Equagdes de Lorentz
+
+Agora vamos usar as equagdes de transformagao da Tabela 37.3.1 para provar, mate- |
+maticamente, algumas das conclusdes a que chegamos anteriormente com base nos —
+
+postulados da teoria de relatividade restrita,
+
+Simultaneidade
+Considere a Eq. 2 da Tabela 37.3.1,
+
+A U
+At= r(ar + = ) (37.3.4)
+
+Se dois eventos ocorrem em locais diferentes no referencial S’ da Fig. 37.3.1, Ax’ nao é
+zero. Assim, dois eventos simultaneos em S' (ou seja, tais que At’ = 0) nao sao simulta-
+neos do referencial S. (Esse resultado estd de acordo com a conclusio a que chegamos
+no Médulo 37.1.) O intervalo de tempo entre os dois eventos no referencial S é dado por
+
+Uy
+
+dug wn: pola
+
+a (eventos simultaneos em S').
+
+Assim, a separacao espacial Ax’ acarreta uma separacdo temporal At.
+
+Dilatagao do tempo
+
+Suponha que dois eventos ocorrem no mesmo local em S’ (ou seja, que Ax’ = 0), mas
+em ocasides diferentes (e, portanto, At’ # 0). Nesse caso, a Eq. 37.3.4 se reduz a
+
+At= yAt' (eventos no mesmo local em S’). (37.3.5)
+
+Esse resultado confirma o fenémeno da dilatacéo do tempo. Como os dois eventos
+ocorrem no mesmo local em S’, 0 intervalo de tempo At’ pode ser medido com o
+mesmo reldgio. Nessas condicoes, o intervalo medido é um intervalo de tempo préprio
+e podemos chamé-lo de Af. Assim, a Eq. 37.3.5 se torna
+
+At=yAt, — (dilatagéo do tempo),
+
+que é igual a Eq. 37.1.9, a equacao da dilatacao do tempo. A dilatagéo do tempo é,
+portanto, um caso especial das equagGes da transformacao de Lorentz.
+
+Contragao do Comprimento
+
+Considere a Eq. 1' da Tabela 37.3.1,
+Ax’ = y(Ax—v At). (37.3.6)
+
+Se uma régua estd orientada paralelamente aos eixos x e x’ da Fig. 37.3.1 e se encontra
+em repouso no referencial S’, um observador em S’ pode medir o comprimento da
+régua sem pressa. Um método possfvel é calcular a diferenga entre as coordenadas
+das extremidades da régua. O valor de Ax’ assim obtido é 0 comprimento prdéprio
+L, da régua, j4 que as medidas sao realizadas em um referencial no qual a régua esta
+em repouso,
+
+Suponha que a régua esteja se movendo no referencial S. Isso significa que Ax pode
+ser considerado o comprimento da régua no referencial S apenas se as coordenadas
+das extremidades da régua forem medidas simultaneamente, isto é, se At = 0. Fazendo
+Ax = Ly Ax =Le At =0 na Eq. 37,3.6, obtemos
+
+es Lo * F
+L= “"y (contracéo do comprimento), (37.3.7)
+
+que é igual 4 Eq, 37.2.1, a equa¢ao da contracao do comprimento. Assim, a contra¢ao
+da distancia é um caso especial de equacdes da transformacao de Lorentz.
+
+i

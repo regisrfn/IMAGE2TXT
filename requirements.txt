@@ -1,2 +1,8 @@
-pytesseract 
-pillow
+opencv-python
+pytesseract
+Pillow
+transformers
+layoutparser
+torch
+torchvision
+torchaudio

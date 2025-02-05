@@ -29,8 +29,8 @@ def extract_text_from_images(image_folder, output_file):
 
 if __name__ == "__main__":
     # Define the path to the folder containing images and the output file
-    image_folder_path = "/home/regis/Documents/Git/IMAGE2TXT"
-    output_file_path = "The_Name_of_the_Wind/output.txt"
+    image_folder_path = "/home/regis/Documents/Git/IMAGE2TXT/calculo"
+    output_file_path = "/home/regis/Documents/Git/IMAGE2TXT/calculo/output.txt"
 
     # Perform the text extraction
     extract_text_from_images(image_folder_path, output_file_path)

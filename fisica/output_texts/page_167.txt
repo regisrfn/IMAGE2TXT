@@ -1,0 +1,125 @@
+RELATIVIDADE 167
+
+Exemplo 37.3.1 A transformagao de Lorentz e uma mudanga na ordem dos eventos
+
+Uma espaconave foi enviada da Terra as vizinhangas de base ter-
+restre no planeta P1407, em cuja lua se instalou um destacamento
+de reptulianos, uma raga de alienigenas que nao nutrem grande
+simpatia pelos terraqueos. Depois de passar pelo planeta e pela
+lua em uma trajetéria retilinea, a nave detecta uma emissio de
+micro-ondas proveniente da base reptuliana; 1,10 s depois, detecta
+uma explosao na base terrestre, que estd a 4,00 x 10^8 m de distancia
+da base reptuliana no referencial da nave. Tudo leva a crer que os
+reptulianos atacaram os humanos, de modo que 0s tripulantes
+da nave se preparam para bombardear a base reptuliana.
+
+(a) A velocidade da nave em relacao ao planeta e sua lua é 0,980c.
+Determine a distancia e o intervalo de tempo entre a emissdo
+ea explosio no referencial do sistema planeta-lua (e, portanto,
+no referencial dos ocupantes das bases).
+
+IDEIAS-CHAVE
+
+1. O problema envolve medidas realizadas em dois referenciais,
+o referencial da nave e o referencial do sistema planeta-lua.
+
+2. O problema envolve dois eventos: a emissao e a explosao.
+
+3. Precisamos transformar os dados a respeito de intervalo de
+tempo e da distancia entre os dois eventos do referencial da
+nave para 0 referencial do sistema planeta-lua.
+
+Referencial da nave: Antes de realizar a transformacao,
+precisamos escolher com cuidado uma nota¢do apropriada.
+Comegamos com um esbo¢o da situagao, como o que aparece
+na Fig. 37.3.2. Consideramos estaciondrio o referencial da
+nave, S, e tomamos 0 referencia! planeta-lua, S’, como estando
+em movimento com velocidade positiva (para a direita). (Essa
+escolha é arbitraria; poderiamos ter considerado estaciondrio
+o referencial S’ e imaginado que o referencial da nave na Fig.
+37.3.2, S, estava se movendo para a esquerda com velocidade
+v; 0 resultado seria o mesmo.) Vamos representar a explosao e
+a emiss4o pelos indices ex e em, respectivamente. Nesse caso,
+os dados do problema, todos no referencial S (0 referencial da
+nave) s4o os seguintes:
+
+AX = Xe, — Xem = +4,00 x 10° m
+e At = t.. — tem =+1,10s.
+
+O movimento relativo altera o intervalo
+de tempo entre dois eventos e pode alterar
+até mesmo a sequéncia dos eventos.
+
+‘]
+
+SY
+
+Espaconave
+
+Lua
+(emissio) Planeta
+
+(explosao)
+
+Figura 37.3.2 Um planeta e sua lua, no referencial S', se movem para a
+direita com velocidade 7 em relagdo a uma espaconave no referencial S.
+
+Sabemos que Ax é uma grandeza positiva porque, na Fig. 37.3.2, a
+coordenada x,, do lugar em que ocorreu a explosao é maior que
+a coordenada x,,, do lugar em que ocorreu a emissao; At também
+é uma grandeza positiva porque o instante f,, em que ocorreu a
+explosao é posterior ao instante f,,, em que Ocorreu a emissao.
+
+Referencial do sistema planeta-lua: Para determinar
+Ax’ e At’, precisamos transformar os dados do referencial S da
+nave para o referencial S’do sistema planeta-lua. Como estamos
+examinando um par de eventos, usamos duas equagées de trans-
+formagao da Tabela 37.3.1, as Eqs. 1’ e 2’:
+
+Ax’ = (Ax — v At) (37.3.8)
+e At' = y (a = = ) (37.3.9)
+Como v = 0,980c, o fator de Lorentz é
+, = sensacrtmaahcenstnnes £8 5,0252.
+
+YO NMT= lee VT = (F 0,980
+A Eq. 37.3.8 se torna, portanto,
+
+Ax’ = (5,0252)[4,00 x 10® m — (+0,980c)(1,10 s)]
+
+= 3,86 x 10° m. (Resposta)
+
+e a Eq. 37.3.9 se torna
+
+8
+Ay’ = (510252) [ato :)- {ase (4.90 10°m) |
+
+= -1,04s (Resposta)
+
+(b) O que significa o fator de o valor de At’ ser negativo?
+
+Raciocinio: Devemos manter a coeréncia com a nota¢ao
+utilizada no item (a). Lembre-se de que o intervalo de tempo
+entre a emissao e a explosao foi definido como At = t,, — tem
+= 1,10 s. Por coeréncia, o intervalo de tempo correspondente
+no sistema S’ deve ser definido como At’ = ti, — ¢{,,3 assim,
+concluimos que
+
+At =2,,- tm =—1,04s.
+
+O sinal negativo significa que t7,, > t1,, ou seja, que no referencial
+planeta-lua a emissdo aconteceu 1,04 s depois da explosio e nao
+1,10 s antes da explosdo, como no referencial da nave.
+
+(c) A emissdo causou a explosio, a explosdo causou a emissao
+ou os dois eventos nao estado relacionados?
+
+IDEIA-CHAVE
+
+Os eventos ocorreram em uma ordem diferente nos dois referen-
+ciais, Se houvesse uma relacdo de causalidade entre os dois eventos,
+algum tipo de informagao teria que viajar do local onde aconte-
+ceu um dos eventos (0 evento causador) até o local onde acon-
+teceu outro evento (0 evento causado pelo primeiro).
+
+Calculo da velocidade: Vamos verificar com que velocidade a
+informacao teria de viajar. No referencial da nave, a velocidade é

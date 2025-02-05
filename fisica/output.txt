@@ -1,0 +1,429 @@
+Content of file page_164.jpg:
+164 CAPITULO 37
+
+=y
+
+Evento
+
+Figura 37.3.1 Dois referenciais inerciais: 0
+referencial S’ esta se movendo com velocidade
+¥ em relagao ao referencial S.
+
+Transformagao de Lorentz
+
+A Fig, 37.3.1 mostra o referencial inercial S’ se movendo com velocidade v em rela¢ao
+ao referencial S no sentido positivo do eixo x, que tem a mesma orienta¢4o que 0 eixo
+x’, Para um observador em S, um evento ocorre nas coordenadas x, y, ze f, enquanto,
+para um observador em S', o mesmo evento ocorre nas coordenadas x’, y’, z’ ef’.
+Qual é a relacdo entre os dois conjuntos de numeros? Vamos antecipar (embora pre-
+cise ser demonstrado) que as coordenadas y e z em relacao a eixos perpendiculares 4
+direcio de movimento nao sao afetadas pelo movimento, ou seja, que y = y’ e z= Z,
+Nosso problema se limita, portanto, a determinar as relag6es entre x e x’ e entre tet’,
+
+As Equacoes da Transformagao de Galileu
+
+Antes que Einstein formulasse a teoria da relatividade restrita, os fisicos supunham
+que as quatro coordenadas de interesse estavam relacionadas pelas equagées da trans-
+formagao de Galileu:
+
+x'=x-vt,
+
+y'=y, (Equacées da transformagao de Galileu; (37.3.1)
+z' =z, aproximadamente validas para baixas velocidades.)
+
+tat.
+
+(Essas equacées foram escritas supondo que t = t’ = 0 quando as origens de S e S’
+coincidem.) A primeira equacao pode ser verificada com o auxilio da Fig. 37.3.1. A
+segunda ea terceira se devem ao fato de que estamos supondo que o movimento acon-
+tece apenas na direco do eixo x. A quarta significa simplesmente que os intervalos de
+tempo sao iguais nos dois referenciais. Isso parecia tao ébvio para os cientistas antes
+de Einstein que nao era sequer mencionado. Quando a velocidade v € pequena em
+comparacao com c, as Eqs. 37.3.1 constituem uma !:0a aproximacao.
+
+As Equacoes da Transformacao de i :
+
+As Eqs. 37.3.1 levam a valores muito préximos dos resultados experimentais quando
+v é€ muito menor que c, mas, na verdade, nao fornecem valores corretos para nenhum
+valor de ve levam a valores muito diferentes dos resultados experimentais para valores
+de v muito maiores que 0,10c. As equagées corretas para a transformacao, que sao
+validas para qualquer velocidade fisicamente possivel, sio chamadas de equagées da
+transformacao de Lorentz.!
+
+As equacées da transformacao de Lorentz podem ser demonstradas a partir dos
+postulados da relatividade, mas vamos nos limitar a apresentd-las e mostrar que so
+compativeis com os resultados obtidos nos médulos anteriores para a simultaneidade,
+a dilatacado do tempo ea contra¢ao do comprimento. Supondo que t= t’ = 0 quando as
+origens de Se S' coincidem na Fig. 37.3.1 (evento 1), as coordenadas espagotemporais
+de qualquer outro evento sao dadas por
+
+x' =y(x- vt),
+y'=y, (Equacées da transformagao de Lorentz; (37.3.2)
+z'=Z, validas para qualquer velocidade fisicamente possivel.)
+
+t' = y(t - vx/c*)
+
+Note que a varidvel espacial x e a varidvel temporal t aparecem juntas na primeira e na
+quarta equa¢o, Esse entrelagamento de espaco e tempo foi uma inovacao da teoria de
+Einstein que seus contemporaneos tiveram dificuldade para aceitar.
+
+Uma exigéncia formal das equacées relativisticas é a de que devem se reduzir as
+equagées classicas quando ¢ tende a infinito. Em outras palavras, se a velocidade da
+luz fosse infinita, todas as velocidades finitas seriam “pequenas” e as equacdes classicas
+seriam sempre validas. Quando fazemos ¢ — oo nas Eqs. 37.3.2, y > 1, vx/c? > 0 e as
+
+‘0 leitor talvez esteja curioso para saber por que essas equagdes nio sio chamadas equagées da transformacdo de Einstein
+(¢ por que 0 fator yndo ¢ chamado fator de Einstein). Na verdade, as equagdes foram propostas por H. A. Lorentz antes
+que Einstein o fizesse, mas o grande fisico holandés reconheceu que nao deu o passo decisivo de interpreta-las como uma
+
+descrigdo real da natureza do espaco e d waar’ = ner : F rt
+: go e do tempo, E nessa interp ez por Einstein, que es'
+a base da teoria da relatividade, P Pretacdo, proposta pela primeira vez p q
+
+
+Content of file page_166.jpg:
+166
+
+CAPITULO 37
+
+Algumas Consequéncias das Equagdes de Lorentz
+
+Agora vamos usar as equagdes de transformagao da Tabela 37.3.1 para provar, mate- |
+maticamente, algumas das conclusdes a que chegamos anteriormente com base nos —
+
+postulados da teoria de relatividade restrita,
+
+Simultaneidade
+Considere a Eq. 2 da Tabela 37.3.1,
+
+A U
+At= r(ar + = ) (37.3.4)
+
+Se dois eventos ocorrem em locais diferentes no referencial S’ da Fig. 37.3.1, Ax’ nao é
+zero. Assim, dois eventos simultaneos em S' (ou seja, tais que At’ = 0) nao sao simulta-
+neos do referencial S. (Esse resultado estd de acordo com a conclusio a que chegamos
+no Médulo 37.1.) O intervalo de tempo entre os dois eventos no referencial S é dado por
+
+Uy
+
+dug wn: pola
+
+a (eventos simultaneos em S').
+
+Assim, a separacao espacial Ax’ acarreta uma separacdo temporal At.
+
+Dilatagao do tempo
+
+Suponha que dois eventos ocorrem no mesmo local em S’ (ou seja, que Ax’ = 0), mas
+em ocasides diferentes (e, portanto, At’ # 0). Nesse caso, a Eq. 37.3.4 se reduz a
+
+At= yAt' (eventos no mesmo local em S’). (37.3.5)
+
+Esse resultado confirma o fenémeno da dilatacéo do tempo. Como os dois eventos
+ocorrem no mesmo local em S’, 0 intervalo de tempo At’ pode ser medido com o
+mesmo reldgio. Nessas condicoes, o intervalo medido é um intervalo de tempo préprio
+e podemos chamé-lo de Af. Assim, a Eq. 37.3.5 se torna
+
+At=yAt, — (dilatagéo do tempo),
+
+que é igual a Eq. 37.1.9, a equacao da dilatacao do tempo. A dilatagéo do tempo é,
+portanto, um caso especial das equagGes da transformacao de Lorentz.
+
+Contragao do Comprimento
+
+Considere a Eq. 1' da Tabela 37.3.1,
+Ax’ = y(Ax—v At). (37.3.6)
+
+Se uma régua estd orientada paralelamente aos eixos x e x’ da Fig. 37.3.1 e se encontra
+em repouso no referencial S’, um observador em S’ pode medir o comprimento da
+régua sem pressa. Um método possfvel é calcular a diferenga entre as coordenadas
+das extremidades da régua. O valor de Ax’ assim obtido é 0 comprimento prdéprio
+L, da régua, j4 que as medidas sao realizadas em um referencial no qual a régua esta
+em repouso,
+
+Suponha que a régua esteja se movendo no referencial S. Isso significa que Ax pode
+ser considerado o comprimento da régua no referencial S apenas se as coordenadas
+das extremidades da régua forem medidas simultaneamente, isto é, se At = 0. Fazendo
+Ax = Ly Ax =Le At =0 na Eq. 37,3.6, obtemos
+
+es Lo * F
+L= “"y (contracéo do comprimento), (37.3.7)
+
+que é igual 4 Eq, 37.2.1, a equa¢ao da contracao do comprimento. Assim, a contra¢ao
+da distancia é um caso especial de equacdes da transformacao de Lorentz.
+
+i
+
+
+Content of file page_167.jpg:
+RELATIVIDADE 167
+
+Exemplo 37.3.1 A transformagao de Lorentz e uma mudanga na ordem dos eventos
+
+Uma espaconave foi enviada da Terra as vizinhangas de base ter-
+restre no planeta P1407, em cuja lua se instalou um destacamento
+de reptulianos, uma raga de alienigenas que nao nutrem grande
+simpatia pelos terraqueos. Depois de passar pelo planeta e pela
+lua em uma trajetéria retilinea, a nave detecta uma emissio de
+micro-ondas proveniente da base reptuliana; 1,10 s depois, detecta
+uma explosao na base terrestre, que estd a 4,00 x 10° m de distancia
+da base reptuliana no referencial da nave. Tudo leva a crer que os
+reptulianos atacaram os humanos, de modo que 0s tripulantes
+da nave se preparam para bombardear a base reptuliana.
+
+(a) A velocidade da nave em relacao ao planeta e sua lua é 0,980c.
+Determine a distancia e o intervalo de tempo entre a emissdo
+ea explosio no referencial do sistema planeta-lua (e, portanto,
+no referencial dos ocupantes das bases).
+
+IDEIAS-CHAVE
+
+1. O problema envolve medidas realizadas em dois referenciais,
+o referencial da nave e o referencial do sistema planeta-lua.
+
+2. O problema envolve dois eventos: a emissao e a explosao.
+
+3. Precisamos transformar os dados a respeito de intervalo de
+tempo e da distancia entre os dois eventos do referencial da
+nave para 0 referencial do sistema planeta-lua.
+
+Referencial da nave: Antes de realizar a transformacao,
+precisamos escolher com cuidado uma nota¢do apropriada.
+Comegamos com um esbo¢o da situagao, como o que aparece
+na Fig. 37.3.2. Consideramos estaciondrio o referencial da
+nave, S, e tomamos 0 referencia! planeta-lua, S’, como estando
+em movimento com velocidade positiva (para a direita). (Essa
+escolha é arbitraria; poderiamos ter considerado estaciondrio
+o referencial S’ e imaginado que o referencial da nave na Fig.
+37.3.2, S, estava se movendo para a esquerda com velocidade
+v; 0 resultado seria o mesmo.) Vamos representar a explosao e
+a emiss4o pelos indices ex e em, respectivamente. Nesse caso,
+os dados do problema, todos no referencial S (0 referencial da
+nave) s4o os seguintes:
+
+AX = Xe, — Xem = +4,00 x 10° m
+e At = t.. — tem =+1,10s.
+
+O movimento relativo altera o intervalo
+de tempo entre dois eventos e pode alterar
+até mesmo a sequéncia dos eventos.
+
+‘]
+
+SY
+
+Espaconave
+
+Lua
+(emissio) Planeta
+
+(explosao)
+
+Figura 37.3.2 Um planeta e sua lua, no referencial S', se movem para a
+direita com velocidade 7 em relagdo a uma espaconave no referencial S.
+
+Sabemos que Ax é uma grandeza positiva porque, na Fig. 37.3.2, a
+coordenada x,, do lugar em que ocorreu a explosao é maior que
+a coordenada x,,, do lugar em que ocorreu a emissao; At também
+é uma grandeza positiva porque o instante f,, em que ocorreu a
+explosao é posterior ao instante f,,, em que Ocorreu a emissao.
+
+Referencial do sistema planeta-lua: Para determinar
+Ax’ e At’, precisamos transformar os dados do referencial S da
+nave para o referencial S’do sistema planeta-lua. Como estamos
+examinando um par de eventos, usamos duas equagées de trans-
+formagao da Tabela 37.3.1, as Eqs. 1’ e 2’:
+
+Ax’ = (Ax — v At) (37.3.8)
+e At' = y (a = = ) (37.3.9)
+Como v = 0,980c, o fator de Lorentz é
+, = sensacrtmaahcenstnnes £8 5,0252.
+
+YO NMT= lee VT = (F 0,980
+A Eq. 37.3.8 se torna, portanto,
+
+Ax’ = (5,0252)[4,00 x 10® m — (+0,980c)(1,10 s)]
+
+= 3,86 x 10° m. (Resposta)
+
+e a Eq. 37.3.9 se torna
+
+8
+Ay’ = (510252) [ato :)- {ase (4.90 10°m) |
+
+= -1,04s (Resposta)
+
+(b) O que significa o fator de o valor de At’ ser negativo?
+
+Raciocinio: Devemos manter a coeréncia com a nota¢ao
+utilizada no item (a). Lembre-se de que o intervalo de tempo
+entre a emissao e a explosao foi definido como At = t,, — tem
+= 1,10 s. Por coeréncia, o intervalo de tempo correspondente
+no sistema S’ deve ser definido como At’ = ti, — ¢{,,3 assim,
+concluimos que
+
+At =2,,- tm =—1,04s.
+
+O sinal negativo significa que t7,, > t1,, ou seja, que no referencial
+planeta-lua a emissdo aconteceu 1,04 s depois da explosio e nao
+1,10 s antes da explosdo, como no referencial da nave.
+
+(c) A emissdo causou a explosio, a explosdo causou a emissao
+ou os dois eventos nao estado relacionados?
+
+IDEIA-CHAVE
+
+Os eventos ocorreram em uma ordem diferente nos dois referen-
+ciais, Se houvesse uma relacdo de causalidade entre os dois eventos,
+algum tipo de informagao teria que viajar do local onde aconte-
+ceu um dos eventos (0 evento causador) até o local onde acon-
+teceu outro evento (0 evento causado pelo primeiro).
+
+Calculo da velocidade: Vamos verificar com que velocidade a
+informacao teria de viajar. No referencial da nave, a velocidade é
+
+
+Content of file page_165.jpg:
+equagdes se reduzem (como deveriam) ds equacées da transformagao de Galileu (Eq.
+37.3.1). O leitor pode verificar que isso é verdade.
+
+As Eqs. 37.3.2 foram escritas em uma forma que é util se conhecemos x e t e quere-
+mos determinar x’ ¢ t’. Podemos estar interessados, porém, em obter a transformacado
+inversa. Nesse caso, simplesmente resolvemos 0 sistema de equacées das Eqs. 37.3.2
+para obter xe f, 0 que nos da
+
+x=yx'tvt’) ee t=y(t'+vx'/c). (37.3.3)
+
+Comparando as Eqs. 37.3.2 com as Eqs. 37.3.3, vemos que, partindo de um dos sistemas
+de equagées, ¢ possivel obter 0 outro simplesmente intercambiando as varidveis espa-
+ciais e temporais nos dois sistemas (isto é, substituindo x por x’ e t por t’ e vice-versa)
+e trocando 0 sinal de v, a velocidade relativa. (Se o referencial S’ tem uma velocidade
+positiva em relagdo a um observador situado no referencial $, por exemplo, como na
+Fig. 37.3.1, isso significa que o referencial S tem uma velocidade negativa em relacao
+a um observador situado no referencial S’.)
+
+As Eqs. 37.3.2 relacionam as coordenadas de segundo evento em dois referen-
+ciais quando o primeiro evento é a coincidéncia das origens de S e S' no instante
+t = t' = 0. Na maioria dos casos, nado estamos interessados em limitar o primeiro
+evento a esse tipo de coincidéncia. Sendo assim, vamos escrever as equacées da
+transformacao de Lorentz em termos de qualquer par de eventos 1 e 2, com sepa-
+ragGes espacotemporais
+
+Ax=%,-X, e At=t,-t,
+medidas por um observador no referencial S e
+Ax'=x,;-x, e At'=t,-t,
+
+medidas por um observador no referencial S’.
+
+A Tabela 37.3.1 mostra as equacées de Lorentz como diferencas, a forma apropriada
+para analisar pares de eventos. As equacées da tabela foram obtidas simplesmente
+substituindo por diferencas (como Axe Ax’) as quatro variaveis das Eqs. 37.3.2 e 37.3.3.
+
+Atencdo: Ao substituir as diferengas por valores numéricos, é preciso ser coerente
+e nao misturar valores do primeiro evento com valores do segundo. Além disso, se,
+por exemplo, Ax for um numero negativo, nao se esquega de incluir o sinal negativo
+ao substituir Ax por seu valu: »m uma equagao.
+
+Tabela 37.3.1 As Equagc~: <ia Transformagao de Lorentz para Pares
+de Eventos
+
+1. Ax=y7(Ax' +v At" 1’. Ax’ = y(Ax-v At)
+2. At= y(At' +v Ax'/c*) 2'. At' = y(At-v Ax/c)
+1 1
+
+yl-(vcy ” Vl-p?
+
+O referencial S’ esta se movendo com velocidade v em relacao ao referencial S.
+
+Teste 37.3.1
+
+Na Fig. 37.3.1, o referencial S’ est4 se movendo a uma velocidade de 0,90c em
+relac4o ao referencial S$. Um observador no referencial S’ mede dois eventos
+que ocorrem nas seguintes coordenadas espacotemporais: evento Amarelo, em
+(5,0 m, 20 ns); evento Verde, em (-2,0 m, 45 ns), Um observador do referencial
+S esta interessado em determinar o intervalo de tempo Aty, = ty — t, entre os
+eventos, (a) Que equacao da Tabela 37.3.1 deve ser usada? (b) O valor de v deve
+ser tomado como +90c ou —90c nessa equacao? (c) Que valor deve ser usado
+para o primeiro termo da soma entre parénteses? (d) Que valor deve ser
+usado para o segundo termo da soma entre parénteses?
+
+RELATIVIDADE
+
+165
+
+
+Content of file page_168.jpg:
+168 CAPITULO 37
+
+oe Ax — 400 108m _ 464% 10" mh dos dois eventos pode ter causado 0 outro, ou seja, nao ha uma
+pear OY Pee 1,10s ae eae relacdo causal entre os eventos. Os terrestres nao tem motivo
+
+: . : i a atacar a base reptuliana.
+uma velocidade que nao pode existir na pratica, ja que é maior ae nase
+
+sabe: No referencial planeta-lua, : velocidade caleulada € 3,70 2Na verdade, o simples fato de que os eventos ocorreram em ordem diferente nos dois re.
+x 108 m/ $s, uma velocidade também imposstvel. Assim, nenhum _ ferenciais era suficiente para concluir que nao existia uma relacdo causal entre eles. (NT)
+
+37.4 RELATIVIDADE DAS VELOCIDADES
+
+Objetivos do Aprendizado
+
+Depois de ler este médulo, vocé sera capaz de...
+
+37.4.1 Explicar, usando um desenho, um arranjo no quala 37.4.2 Conhecer a equagao relativistica que relaciona as
+velocidade de um objeto 6 medida em dois referenciais velocidades de um objeto em dois referenciais diferentes.
+
+diferentes.
+
+Ideia-Chave
+
+@ Se um objeto esta se movendo com velocidade u’ no sentido de um segundo referencia! inercial S, a velocidade u da particula
+positivo do eixo x’ de um referencial inercial S’ que, por sua vez, _ no referencial S 6 dada por
+esta se movendo com velocidade v no sentido positivo do eixo x
+
+uty
+
+u = ———--; (velocidade relativistica).
+1+ u'vic? ( )
+
+Relatividade das Velocidades <<» 37.1
+
+Agora vamos usar as equa¢ées da transformacao de Lorentz para comparar as veloci-
+
+A velocidade dades que dois observadores em diferentes referenciais inerciais, $ e S’, medem para
+do objeto depende mesma particula. Vamos supor que S’ esta se movendo com velocidade v em relacao aS.
+y 9 do referencial. Imagine que a particula, que esté se movendo com velocidade constante parale-
+s |S’ lamente aos eixos x e x’ da Fig. 37.4.1, emite um sinal e, algum tempo depois, emite
+= bjeto um segundo sinal. Observadores situados nos referenciais S e S’ medem a distanci3
+u'no referencial S' eo intervalo de tempo entre os dois eventos. As quatro medidas estdo relacionadss
+@no referencial S pelas Eqs. 1 e 2 da Tabela 37.3.1,
+x ’ Ax=y(Ax' +v At’)
+Figura 37.4.1 O referencial S'estésemovendo At=y ( At’ + v Ax’ )
+com velocidade 7 em relacdo ao referencial rad
+
+S. Uma particula esté se movendo com velo- _ iyidindo a primeira equa¢4o pela segunda, obtemos:
+
+cidade 7 em relacdo ao referencial S’ e com Ax Ax' + vAr'
+
+velocidade @ em relacao ao referencial S. SS
+“ At At) + vAx'lc?
+
+Dividindo o numerador e o denominador do lado direito por At’, obtemos:
+Ax _ _ Aviat’ + v
+At 1+ v(Ax'/Ar')/c?*
+Para At» 0, Ax/At — u, a velocidade da particula medida no referencial S. Da mesi™
+forma, para Af’ -> 0, Ax'/At’ — u', a velocidade da particula medida no referencia!
+S’, Assim, temos:
+u'+v
+
+Engr (transformacio relativistica da velocidade) (37.4.1)
+
+u=
+
+que é a equacao de transformagao relativistica de velocidades. (Aten¢do: Certifique-s
+de que os sinais das velocidades w' e v estao corretos.) A Eq. 37.4.1 se reduz a equagi?
+da transformagio cldssica ou de Galileu,
+
+u=u'+v —— (transformacao classica da velocidade), (37.422)
+
+

@@ -1,0 +1,66 @@
+equagdes se reduzem (como deveriam) ds equacées da transformagao de Galileu (Eq.
+37.3.1). O leitor pode verificar que isso é verdade.
+
+As Eqs. 37.3.2 foram escritas em uma forma que é util se conhecemos x e t e quere-
+mos determinar x’ ¢ t’. Podemos estar interessados, porém, em obter a transformacado
+inversa. Nesse caso, simplesmente resolvemos 0 sistema de equacées das Eqs. 37.3.2
+para obter xe f, 0 que nos da
+
+x=yx'tvt’) ee t=y(t'+vx'/c). (37.3.3)
+
+Comparando as Eqs. 37.3.2 com as Eqs. 37.3.3, vemos que, partindo de um dos sistemas
+de equagées, ¢ possivel obter 0 outro simplesmente intercambiando as varidveis espa-
+ciais e temporais nos dois sistemas (isto é, substituindo x por x’ e t por t’ e vice-versa)
+e trocando 0 sinal de v, a velocidade relativa. (Se o referencial S’ tem uma velocidade
+positiva em relagdo a um observador situado no referencial $, por exemplo, como na
+Fig. 37.3.1, isso significa que o referencial S tem uma velocidade negativa em relacao
+a um observador situado no referencial S’.)
+
+As Eqs. 37.3.2 relacionam as coordenadas de segundo evento em dois referen-
+ciais quando o primeiro evento é a coincidéncia das origens de S e S' no instante
+t = t' = 0. Na maioria dos casos, nado estamos interessados em limitar o primeiro
+evento a esse tipo de coincidéncia. Sendo assim, vamos escrever as equacées da
+transformacao de Lorentz em termos de qualquer par de eventos 1 e 2, com sepa-
+ragGes espacotemporais
+
+Ax=%,-X, e At=t,-t,
+medidas por um observador no referencial S e
+Ax'=x,;-x, e At'=t,-t,
+
+medidas por um observador no referencial S’.
+
+A Tabela 37.3.1 mostra as equacées de Lorentz como diferencas, a forma apropriada
+para analisar pares de eventos. As equacées da tabela foram obtidas simplesmente
+substituindo por diferencas (como Axe Ax’) as quatro variaveis das Eqs. 37.3.2 e 37.3.3.
+
+Atencdo: Ao substituir as diferengas por valores numéricos, é preciso ser coerente
+e nao misturar valores do primeiro evento com valores do segundo. Além disso, se,
+por exemplo, Ax for um numero negativo, nao se esquega de incluir o sinal negativo
+ao substituir Ax por seu valu: »m uma equagao.
+
+Tabela 37.3.1 As Equagc~: <ia Transformagao de Lorentz para Pares
+de Eventos
+
+1. Ax=y7(Ax' +v At" 1’. Ax’ = y(Ax-v At)
+2. At= y(At' +v Ax'/c*) 2'. At' = y(At-v Ax/c)
+1 1
+
+yl-(vcy ” Vl-p?
+
+O referencial S’ esta se movendo com velocidade v em relacao ao referencial S.
+
+Teste 37.3.1
+
+Na Fig. 37.3.1, o referencial S’ est4 se movendo a uma velocidade de 0,90c em
+relac4o ao referencial S$. Um observador no referencial S’ mede dois eventos
+que ocorrem nas seguintes coordenadas espacotemporais: evento Amarelo, em
+(5,0 m, 20 ns); evento Verde, em (-2,0 m, 45 ns), Um observador do referencial
+S esta interessado em determinar o intervalo de tempo Aty, = ty — t, entre os
+eventos, (a) Que equacao da Tabela 37.3.1 deve ser usada? (b) O valor de v deve
+ser tomado como +90c ou —90c nessa equacao? (c) Que valor deve ser usado
+para o primeiro termo da soma entre parénteses? (d) Que valor deve ser
+usado para o segundo termo da soma entre parénteses?
+
+RELATIVIDADE
+
+165

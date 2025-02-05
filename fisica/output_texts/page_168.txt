@@ -1,0 +1,72 @@
+168 CAPITULO 37
+
+oe Ax — 400 108m _ 464% 10" mh dos dois eventos pode ter causado 0 outro, ou seja, nao ha uma
+pear OY Pee 1,10s ae eae relacdo causal entre os eventos. Os terrestres nao tem motivo
+
+: . : i a atacar a base reptuliana.
+uma velocidade que nao pode existir na pratica, ja que é maior ae nase
+
+sabe: No referencial planeta-lua, : velocidade caleulada € 3,70 2Na verdade, o simples fato de que os eventos ocorreram em ordem diferente nos dois re.
+x 108 m/ $s, uma velocidade também imposstvel. Assim, nenhum _ ferenciais era suficiente para concluir que nao existia uma relacdo causal entre eles. (NT)
+
+37.4 RELATIVIDADE DAS VELOCIDADES
+
+Objetivos do Aprendizado
+
+Depois de ler este médulo, vocé sera capaz de...
+
+37.4.1 Explicar, usando um desenho, um arranjo no quala 37.4.2 Conhecer a equagao relativistica que relaciona as
+velocidade de um objeto 6 medida em dois referenciais velocidades de um objeto em dois referenciais diferentes.
+
+diferentes.
+
+Ideia-Chave
+
+@ Se um objeto esta se movendo com velocidade u’ no sentido de um segundo referencia! inercial S, a velocidade u da particula
+positivo do eixo x’ de um referencial inercial S’ que, por sua vez, _ no referencial S 6 dada por
+esta se movendo com velocidade v no sentido positivo do eixo x
+
+uty
+
+u = ———--; (velocidade relativistica).
+1+ u'vic? ( )
+
+Relatividade das Velocidades <<» 37.1
+
+Agora vamos usar as equa¢ées da transformacao de Lorentz para comparar as veloci-
+
+A velocidade dades que dois observadores em diferentes referenciais inerciais, $ e S’, medem para
+do objeto depende mesma particula. Vamos supor que S’ esta se movendo com velocidade v em relacao aS.
+y 9 do referencial. Imagine que a particula, que esté se movendo com velocidade constante parale-
+s |S’ lamente aos eixos x e x’ da Fig. 37.4.1, emite um sinal e, algum tempo depois, emite
+= bjeto um segundo sinal. Observadores situados nos referenciais S e S’ medem a distanci3
+u'no referencial S' eo intervalo de tempo entre os dois eventos. As quatro medidas estdo relacionadss
+@no referencial S pelas Eqs. 1 e 2 da Tabela 37.3.1,
+x ’ Ax=y(Ax' +v At’)
+Figura 37.4.1 O referencial S'estésemovendo At=y ( At’ + v Ax’ )
+com velocidade 7 em relacdo ao referencial rad
+
+S. Uma particula esté se movendo com velo- _ iyidindo a primeira equa¢4o pela segunda, obtemos:
+
+cidade 7 em relacdo ao referencial S’ e com Ax Ax' + vAr'
+
+velocidade @ em relacao ao referencial S. SS
+“ At At) + vAx'lc?
+
+Dividindo o numerador e o denominador do lado direito por At’, obtemos:
+Ax _ _ Aviat’ + v
+At 1+ v(Ax'/Ar')/c?*
+Para At» 0, Ax/At — u, a velocidade da particula medida no referencial S. Da mesi™
+forma, para Af’ -> 0, Ax'/At’ — u', a velocidade da particula medida no referencia!
+S’, Assim, temos:
+u'+v
+
+Engr (transformacio relativistica da velocidade) (37.4.1)
+
+u=
+
+que é a equacao de transformagao relativistica de velocidades. (Aten¢do: Certifique-s
+de que os sinais das velocidades w' e v estao corretos.) A Eq. 37.4.1 se reduz a equagi?
+da transformagio cldssica ou de Galileu,
+
+u=u'+v —— (transformacao classica da velocidade), (37.422)

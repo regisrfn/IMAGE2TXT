@@ -1,0 +1,80 @@
+164 CAPITULO 37
+
+=y
+
+Evento
+
+Figura 37.3.1 Dois referenciais inerciais: 0
+referencial S’ esta se movendo com velocidade
+¥ em relagao ao referencial S.
+
+Transformagao de Lorentz
+
+A Fig, 37.3.1 mostra o referencial inercial S’ se movendo com velocidade v em rela¢ao
+ao referencial S no sentido positivo do eixo x, que tem a mesma orienta¢4o que 0 eixo
+x’, Para um observador em S, um evento ocorre nas coordenadas x, y, ze f, enquanto,
+para um observador em S', o mesmo evento ocorre nas coordenadas x’, y’, z’ ef’.
+Qual é a relacdo entre os dois conjuntos de numeros? Vamos antecipar (embora pre-
+cise ser demonstrado) que as coordenadas y e z em relacao a eixos perpendiculares 4
+direcio de movimento nao sao afetadas pelo movimento, ou seja, que y = y’ e z= Z,
+Nosso problema se limita, portanto, a determinar as relag6es entre x e x’ e entre tet’,
+
+As Equacoes da Transformagao de Galileu
+
+Antes que Einstein formulasse a teoria da relatividade restrita, os fisicos supunham
+que as quatro coordenadas de interesse estavam relacionadas pelas equagées da trans-
+formagao de Galileu:
+
+x'=x-vt,
+
+y'=y, (Equacées da transformagao de Galileu; (37.3.1)
+z' =z, aproximadamente validas para baixas velocidades.)
+
+tat.
+
+(Essas equacées foram escritas supondo que t = t’ = 0 quando as origens de S e S’
+coincidem.) A primeira equacao pode ser verificada com o auxilio da Fig. 37.3.1. A
+segunda ea terceira se devem ao fato de que estamos supondo que o movimento acon-
+tece apenas na direco do eixo x. A quarta significa simplesmente que os intervalos de
+tempo sao iguais nos dois referenciais. Isso parecia tao ébvio para os cientistas antes
+de Einstein que nao era sequer mencionado. Quando a velocidade v € pequena em
+comparacao com c, as Eqs. 37.3.1 constituem uma !:0a aproximacao.
+
+As Equacoes da Transformacao de i :
+
+As Eqs. 37.3.1 levam a valores muito préximos dos resultados experimentais quando
+v é€ muito menor que c, mas, na verdade, nao fornecem valores corretos para nenhum
+valor de ve levam a valores muito diferentes dos resultados experimentais para valores
+de v muito maiores que 0,10c. As equagées corretas para a transformacao, que sao
+validas para qualquer velocidade fisicamente possivel, sio chamadas de equagées da
+transformacao de Lorentz.!
+
+As equacées da transformacao de Lorentz podem ser demonstradas a partir dos
+postulados da relatividade, mas vamos nos limitar a apresentd-las e mostrar que so
+compativeis com os resultados obtidos nos médulos anteriores para a simultaneidade,
+a dilatacado do tempo ea contra¢ao do comprimento. Supondo que t= t’ = 0 quando as
+origens de Se S' coincidem na Fig. 37.3.1 (evento 1), as coordenadas espagotemporais
+de qualquer outro evento sao dadas por
+
+x' =y(x- vt),
+y'=y, (Equacées da transformagao de Lorentz; (37.3.2)
+z'=Z, validas para qualquer velocidade fisicamente possivel.)
+
+t' = y(t - vx/c*)
+
+Note que a varidvel espacial x e a varidvel temporal t aparecem juntas na primeira e na
+quarta equa¢o, Esse entrelagamento de espaco e tempo foi uma inovacao da teoria de
+Einstein que seus contemporaneos tiveram dificuldade para aceitar.
+
+Uma exigéncia formal das equacées relativisticas é a de que devem se reduzir as
+equagées classicas quando ¢ tende a infinito. Em outras palavras, se a velocidade da
+luz fosse infinita, todas as velocidades finitas seriam “pequenas” e as equacdes classicas
+seriam sempre validas. Quando fazemos ¢ — oo nas Eqs. 37.3.2, y > 1, vx/c? > 0 e as
+
+‘0 leitor talvez esteja curioso para saber por que essas equagdes nio sio chamadas equagées da transformacdo de Einstein
+(¢ por que 0 fator yndo ¢ chamado fator de Einstein). Na verdade, as equagdes foram propostas por H. A. Lorentz antes
+que Einstein o fizesse, mas o grande fisico holandés reconheceu que nao deu o passo decisivo de interpreta-las como uma
+
+descrigdo real da natureza do espaco e d waar’ = ner : F rt
+: go e do tempo, E nessa interp ez por Einstein, que es'
+a base da teoria da relatividade, P Pretacdo, proposta pela primeira vez p q

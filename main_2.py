@@ -42,5 +42,5 @@ def process_images_in_folder(folder_path, output_dir="output_texts"):
         print(f"Transcribed text saved to: {output_path}")
 
 # Example usage with a folder path
-folder_path = '/home/regis/Documents/Git/PDF2IMG/The_Name_of_the_Wind/batch_101_to_200'
-process_images_in_folder(folder_path, "batch_101_to_200")
+folder_path = '/home/regis/Documents/Git/IMAGE2TXT/calculo'
+process_images_in_folder(folder_path, folder_path + "/output_texts")
