@@ -1,8 +1,8 @@
-opencv-python
-pytesseract
-Pillow
-transformers
-layoutparser
-torch
-torchvision
-torchaudio
+pytesseract==0.3.10
+opencv-python==4.8.1.78
+pillow==10.0.0
+layoutparser==0.3.4
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.34.0
+numpy==1.26.0

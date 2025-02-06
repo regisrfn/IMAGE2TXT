@@ -1,0 +1,47 @@
+Quão próximo de'3 deverá estar x para que,f(x) difira de'5 por‘mends que.0j1?7
+
+A distancia de x a 3.é |x=3 |s6a distância de flu) à 5 é |flx)=:5 |: l0go; nosso problema
+é achar um número:ô (a letra grega delta) tal que ts
+o a" "o E ESEC PR yee ato tenis Ro OO er
+
+- Sé|%=3/)'>0, então x4 3;;portanto uma formulação equivalenterde nosso problema é
+
+Assim, uma resposta para o problema é dada por 6= 0,05; isto é,.se x estiver a uma-dis
+taticia dé o máximo 0,05 de'3;entéo f(x) estará a uma distância de nomáximo O Ide
+
+Se mudarnios oindmiero 0,1: em nosso problemapara-o número-menor'0,0 1% então
+usando o mesmo método, achamos que f(x) diferirá de 5 por menos que 0,01-desde-qu:
+
+rig Apae pees VLS ma E Pra a e da rbd
+a'dnálora, sabia ne “ 4 " . ns cer ala SS apto: q dd cito wa
+DS SE ws | à a ia ay eta, hay ER te : le r ” RAGE . wi eg ee
++ Pta FO 5] 0/001. 188) O43] 0/0005 >
+
+ps múmeros 0,1, 0,01 ¢'0,00}, antenormente considerados, São. forerâncias de pero que
+podemos admitir. Para que O número 5 seja precisamente 0 limite de f(x), quarnido x tende 2
+By devemos não apenis ser capares de formar à diferença enlie /a) s 9 menor que, cada (um
+desses trés números; devemos ser capázes de torná-la menor que qualquer número positivo.
+E, por analogia ão procedimento adotado, ibs podemos!:Se:chamarmos € (a letra. grega
+Epsilon) a um número positivo arbitrário; então encontramos corned anteriormente; que:
+
+Esta é uma:maneira precisa de dizer'que f(x) está próximo de S.quando x está próximo
+arbitrária e de 5 restringindo os valores:de x a umaidistancia‘e/2 de'3(mas'x#3): ~~ ~*
+wri Observe que (1) pode'serreescrita como: fe Te tind oS, ares coesa Tede of
+
+Esta.¢.uma maneira precisa de dizer'que f(x) esta proximo.de 5:quando x esta próximo
+arbitttia  de'5restringindo os valores dex a uma distância e/2 do'3 (mas x #3): ~~~”
+pe Observe que (1) pode sen reescrita como: su case sinew, aes cashes d
+
+sso esiá ilisirado na Rigura | Tomando pe valores dex (#3) dentro-do intervalo (3'=8
+} +4), podemos obtér'osivalores de f(x) dentro do intervalo (5 —'c;.5+€).
+"Usando (1) como modelo; temos-uma definição precisa:de limite:.
+
+[2] Definição Precisa de Limite: Seja fuma função: definida em algum intervalo:
+abertó que contenha q número, a; exceto possivelmente no próprio;a; Então dizemos ..
+‘que 6 limite;de'f (x) quando x tende a a é L, e escrevemos: a
+
+-Se para todo números 5.0 houver um número 6:50 tal Giie
+
+FIGURES:
+[FIGURE 1]: a page of a text book with a picture of a person
+[FIGURE 2]: a diagram of a rectangular prism with a square prism

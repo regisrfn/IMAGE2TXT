@@ -104,3 +104,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Pillow for image processing in Python.
 
 Let me know if you need further changes or additions to this!
+
+python -m pip install --upgrade pip setuptools wheel
+pip install -r requirements.txt
+python -m pip install 'git+https://github.com/facebookresearch/detectron2.git@main#egg=detectron2'  --no-build-isolation
+
+# Manually clear cache and retry
+rm -rf ~/.torch/iopath_cache/
+wget -P ~/.torch/iopath_cache/s/dgy9c10wykk4lq4/ https://www.dropbox.com/s/dgy9c10wykk4lq4/model_final.pth
